@@ -24,7 +24,7 @@ If you are the owner of any image and would like it removed, please contact me.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Thallesmoraisbr/HappyBirthday.git
+   git clone https://github.com/Thallesmoraismls/HappyBirthday
 
 2. Open in Android Studio.
 
